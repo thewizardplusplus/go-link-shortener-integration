@@ -1,0 +1,3 @@
+[submodule "go-link-shortener-backend"]
+	path = go-link-shortener-backend
+	url = https://github.com/thewizardplusplus/go-link-shortener-backend
