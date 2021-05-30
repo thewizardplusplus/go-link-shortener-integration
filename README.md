@@ -1,5 +1,12 @@
 # go-link-shortener-integration
 
+Integration of the back-end and front-end of the service for shorting links.
+
+## Components
+
+- [go-link-shortener-backend](https://github.com/thewizardplusplus/go-link-shortener-backend) v1.10;
+- [go-link-shortener-frontend](https://github.com/thewizardplusplus/go-link-shortener-frontend) v1.0.1.
+
 ## Workflow
 
 ### Cloning
